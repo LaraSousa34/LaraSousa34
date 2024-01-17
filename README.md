@@ -6,10 +6,11 @@
 
 ##
 
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)"></div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" width="60" height="60" src="https://raw.githubusercontent.com/LaraSousa34/LaraSousa34/main/assets/python-icon.svg">
+</div>
 
-![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)
+
 
 
 
