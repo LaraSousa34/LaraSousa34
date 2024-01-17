@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey!! My name is Lara Sousa ♡
+##
+- 🤖 I’m currently learning Artificial Intelligence and Data Science
+- 🎓 Studying in Faculty os Sciences and Faculty of Engineering of the univeristy of Porto 
+- 📩 Contact me on my email: larasousapf@gmail.com
 
-<!--
-**LaraSousa34/LaraSousa34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)"
+<div>
+  <a href="![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)"> </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
