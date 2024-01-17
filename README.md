@@ -6,10 +6,6 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" width="60" height="60" src="https://raw.githubusercontent.com/LaraSousa34/LaraSousa34/main/assets/python-icon.svg">
-</div>
-
 
 
 
