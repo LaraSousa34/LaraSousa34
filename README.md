@@ -5,9 +5,10 @@
 - 📩 Contact me on my email: larasousapf@gmail.com
 
 ##
-![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)"
-<div>
-  <a href="![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)"> </a>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="![python](https://github.com/LaraSousa34/LaraSousa34/assets/125885276/9910eab1-53bc-4638-9d19-8579e999b3b9)"
 </div>
+
 
 
